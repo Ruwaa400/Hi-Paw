@@ -5,4 +5,4 @@ Built with HTML, CSS, Bootstrap, JavaScript and jQuery
 Relational database.
 
 Demo video:
-<a src="https://www.youtube.com/embed/AzmhIQWLMjA" title="YouTube video player"></a>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AzmhIQWLMjA/0.jpg)](https://www.youtube.com/watch?v=AzmhIQWLMjA)
