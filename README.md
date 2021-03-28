@@ -1,8 +1,7 @@
 # Hi-Paw
 website for pet adoption &amp; re-home center.
 
-Built with HTML, CSS, Bootstrap, JavaScript and jQuery 
-Relational database.
+Built with HTML, CSS, Bootstrap, JavaScript and jQuery.
 
 Demo video:
 
